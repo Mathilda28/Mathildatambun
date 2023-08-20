@@ -11,5 +11,3 @@ I'm interested in Data Scientist using dart languages and flutter ​​as frame
 * ✉️  You can contact me at [mathildatambun1998@gmail.com](mailto:mathildatambun1998@gmail.com)
 * 🧠  Focus For Build Exploratory data analysis, Machine Learning and  Data Modeling 
 * 🤝  I'm open to collaborating 
-* ⚡  work doesn't look, like a ghost BOO...
-
